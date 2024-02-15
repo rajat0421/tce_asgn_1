@@ -8,4 +8,3 @@ const commonMiddleware = (req, res, next) => {
     commonMiddleware,
   };
 
-//   rajat
